@@ -2,7 +2,7 @@
 const allowedOrigins = [
     'http://localhost:5173',
     'http://localhost:4200',
-    'https://main--bloggnew.netlify.app/'
+    'https://vocal-jelly-faf3cd.netlify.app/'
 
 ];
 
